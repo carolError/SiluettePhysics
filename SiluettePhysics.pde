@@ -15,7 +15,7 @@ import org.jbox2d.common.*; // jbox2d
 import org.jbox2d.dynamics.*; // jbox2d
 
 float DELAUNAY_SIZE = 10000;
-float res = 6;
+float res = 7;
 
 // declare SimpleOpenNI object
 SimpleOpenNI context;
